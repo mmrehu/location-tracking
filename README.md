@@ -24,14 +24,14 @@ This script is **strictly for educational purposes only**. The creator (**Rehu T
 - Unauthorized commercial use is strictly prohibited.  
 
 ## 🛠 Installation Guide  
-1. **Clone the Repository**  
+1. **Download the Repository**  
    ```bash
-   git clone https://github.com/your-repo/project-x.git
-   cd project-x/location-tracking
+   git clone https://github.com/mmrehu/location-tracking.git
+   extract file
    ```  
-2. **Set Up a Local Server** (Apache, XAMPP, or any PHP-supported server).  
+2. **Set Up a  Server** (Apache, XAMPP, or any PHP-supported server).  
 3. **Move Files** to your server's root directory (`htdocs` for XAMPP users).  
-4. **Start the Server** and access the script via `http://localhost/location-tracking`.  
+4. **Start the Server** and access the script via `http://youdomain.com`.  
 
 ## 📜 License  
 This script is **protected under a custom license**. Unauthorized use, redistribution, or modification without permission is **strictly prohibited**.  
